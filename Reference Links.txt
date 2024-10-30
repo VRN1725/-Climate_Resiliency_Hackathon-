@@ -1,0 +1,55 @@
+
+Solution References:
+
+https://cwfis.cfs.nrcan.gc.ca/datamart/metadata/nbac  - Canadian Wildland Fire Information System (CWFIS).
+
+https://firms.modaps.eosdis.nasa.gov/content/academy/data_api/firms_api_use.html - NASA
+
+https://developers.google.com/earth-engine/datasets/tags/climate 
+
+https://climatejustice.ubc.ca
+
+https://vancouver.ca/green-vancouver/climate-change-adaptation-strategy.aspx
+
+https://citystudiovancouver.com/projects/whyther-the-why-the-how-and-the-what-to-do-behind-vancouver-weather/
+
+https://cleantechnica.com/2017/11/28/stone-edge-farm-putting-the-microgrid-to-the-test/
+
+https://www.iq-firewatch.com/technology
+
+https://firesmartbc.ca
+
+https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z
+
+https://firms.modaps.eosdis.nasa.gov/academy/
+
+https://newscenter.lbl.gov/2023/06/15/how-microgrids-can-help-communities-adapt-to-wildfires/#:~:text=Microgrids%20can%20build%20resilience%20in,keep%20homes%20and%20communities%20safe.
+
+https://github.com/squoilin/MicroGrids
+
+https://prism.ucalgary.ca/server/api/core/bitstreams/4e0ffbfb-c483-4ec6-971d-8f6a06f9d800/content
+
+https://wildfiresituation.nrs.gov.bc.ca/map
+
+https://microgridspy-docs.readthedocs.io/en/latest/index.html
+
+https://www.canada.ca/en/public-health/services/publications/healthy-living/rapid-review-intersectional-analysis-disproportionate-impacts-wildfires-diverse-populations-communities.html
+
+
+Google drive links:
+https://docs.google.com/document/d/19mumhvtc1g-Vf78j6abhZz4sSzWDrneJENdcfv1R9ug/edit?usp=sharing
+
+https://drive.google.com/drive/folders/1kEhHrcI-h4S_sK9LnKkC5kGlrIobCryO?usp=drive_link
+
+Climate Resiliency Hackathon links:
+
+https://climateresiliencyhack.sites.northeastern.edu/topic-1/
+
+https://climateresiliencyhack.sites.northeastern.edu/topic-1/
+
+https://docs.google.com/spreadsheets/d/1GRQr6yq0IDjLF3y-utR-v2rZjVkb8dSApHzo5Ve9kCE/edit?gid=978764263#gid=978764263
+
+https://docs.google.com/forms/d/e/1FAIpQLSdkt9eF_GE0ybzvadPtN7mf8JZD1zpf8EBhgNIPVWzS0c7BgQ/formResponse  - Google Forms: Sign-in
+
+https://docs.google.com/document/d/1A90v-oBh08C6SchfSjJhw5_374XWFA629ropMvo56AM/edit?tab=t.0#heading=h.ybzuurlhanvn
+
